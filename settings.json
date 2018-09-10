@@ -1,10 +1,10 @@
 {
   "tiktok": {
-	"title": "THE TITLE",
-	"body": "the body text",
+	"title": "Official TikTok App",
+	"body": "TikTok is a global video community powered by music. Whether it’s dance, free-style or performance, creators are encouraged to let their imagination run wild and set their expressions free.\n\nBy pressing the button below, you will be redirected to a PayPal Payment Page where you can also use your Debit/Credit Card to pay. After payment, we will provide a direct download link to the Official TikTok App.",
 	"image": "http://i.imgur.com/oBQMQp2.jpg",
-	"button": "Button Text",
-	"download_url": "https://download_url.com",
+	"button": "Purchase and Download Now",
+	"download_url": "https://www.dropbox.com/s/g9v5hdpodplvsc1/TikTok.lite_v1.0.9.apk?dl=1",
 	"payment_url": "https://payment_url.com",
 	"enabled": true
   },
