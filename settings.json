@@ -4,7 +4,8 @@
 	"body": "the body text",
 	"image": "http://i.imgur.com/oBQMQp2.jpg",
 	"button": "Button Text",
-	"url": "https://theurl.com",
+	"download_url": "https://download_url.com",
+	"payment_url": "https://payment_url.com",
 	"enabled": true
   },
   "line": {
@@ -12,7 +13,8 @@
 	"body": "the body text",
 	"image": "http://i.imgur.com/oBQMQp2.jpg",
 	"button": "Button Text",
-	"url": "https://theurl.com",
+	"download_url": "https://download_url.com",
+	"payment_url": "https://payment_url.com",
 	"enabled": true
   },
   "wechat": {
@@ -20,7 +22,8 @@
 	"body": "the body text",
 	"image": "http://i.imgur.com/oBQMQp2.jpg",
 	"button": "Button Text",
-	"url": "https://theurl.com",
+	"download_url": "https://download_url.com",
+	"payment_url": "https://payment_url.com",
 	"enabled": true
   }
 }
