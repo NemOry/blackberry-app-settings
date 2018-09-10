@@ -5,7 +5,7 @@
 	"image": "http://i.imgur.com/oBQMQp2.jpg",
 	"button": "Purchase and Download Now",
 	"download_url": "https://www.dropbox.com/s/g9v5hdpodplvsc1/TikTok.lite_v1.0.9.apk?dl=1",
-	"payment_url": "https://payment_url.com",
+	"payment_url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DQ8BFCH4PKHUA",
 	"enabled": true
   },
   "line": {
