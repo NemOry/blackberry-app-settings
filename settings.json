@@ -1,0 +1,26 @@
+{
+  "tiktok": {
+	"title": "THE TITLE",
+	"body": "the body text",
+	"image": "http://i.imgur.com/oBQMQp2.jpg",
+	"button": "Button Text",
+	"url": "https://theurl.com"
+	"enabled": true
+  },
+  "line": {
+	"title": "THE TITLE",
+	"body": "the body text",
+	"image": "http://i.imgur.com/oBQMQp2.jpg",
+	"button": "Button Text",
+	"url": "https://theurl.com"
+	"enabled": true
+  },
+  "wechat": {
+	"title": "THE TITLE",
+	"body": "the body text",
+	"image": "http://i.imgur.com/oBQMQp2.jpg",
+	"button": "Button Text",
+	"url": "https://theurl.com"
+	"enabled": true
+  }
+}
