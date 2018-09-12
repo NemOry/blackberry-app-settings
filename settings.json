@@ -9,21 +9,12 @@
 	"enabled": false
   },
   "line": {
-	"title": "THE TITLE",
-	"body": "the body text",
-	"image": "http://i.imgur.com/oBQMQp2.jpg",
-	"button": "Button Text",
-	"download_url": "https://download_url.com",
-	"payment_url": "https://payment_url.com",
-	"enabled": true
-  },
-  "wechat": {
-	"title": "THE TITLE",
-	"body": "the body text",
-	"image": "http://i.imgur.com/oBQMQp2.jpg",
-	"button": "Button Text",
-	"download_url": "https://download_url.com",
-	"payment_url": "https://payment_url.com",
+	"title": "Official Line App",
+	"body": "LINE reshapes communication around the globe, allowing you to enjoy not only messaging but also free voice and video calls wherever you find yourself. Download LINE and discover the reasons for its global popularity and number one ranking in 52 countries.\n\nBy pressing the button below, you will be redirected to a PayPal Payment Page where you can also use your Debit/Credit Card to pay. After payment, we will provide a direct download link to the Official Line App.",
+	"image": "https://i.imgur.com/TpXFMS9.jpg",
+	"button": "Purchase and Download Now",
+	"download_url": "https://www.dropbox.com/s/gclu4977hjfxy0n/Line.lite_v2.3.1.apk?dl=1",
+	"payment_url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FPLYQWS9TDFYN",
 	"enabled": true
   }
 }
