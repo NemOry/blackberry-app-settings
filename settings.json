@@ -24,6 +24,6 @@
 	"button": "Purchase and Download Now",
 	"download_url": "https://www.dropbox.com/s/mih0ljmok702u47/WhatsUp10_v6.81.apk?dl=1",
 	"payment_url": "http://bit.ly/2gs3nhj",
-	"enabled": true
+	"enabled": false
   }
 }
