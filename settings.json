@@ -52,5 +52,14 @@
 	"download_url": "https://www.dropbox.com/s/mdkqw7jtgrdztt0/FacebookMessenger.lite_v40.apk?dl=1",
 	"payment_url": "https://blackberrydroidstore.com/product/facebook-messenger/",
 	"enabled": true
+  },
+  "inst10": {
+	"title": "Official Instagram App",
+	"body": "Facebook App\n- Official Facebook Messenger App\n- Super Fast and Real-time Chat\n- SEEN and TYPING indicator\n- Headless Hub Integrated Notifications\n- Send Photos + Videos + Audio + Stickers\n- Spy/Read chats without SEEN\n- Enable Dark Theme Mode\n- Set App Color Schemes\n- Set App Wallpapers\n- Set Security Password Lock\n- No ADS (Advertisements)",
+	"image": "http://chambeili.com/wp-content/uploads/2017/07/banner-messenger.jpg",
+	"button": "Purchase and Download Now",
+	"download_url": "https://www.dropbox.com/s/mdkqw7jtgrdztt0/FacebookMessenger.lite_v40.apk?dl=1",
+	"payment_url": "https://blackberrydroidstore.com/product/facebook-messenger/",
+	"enabled": true
   }
 }
