@@ -162,19 +162,19 @@
 	"enabled": true
   },
   "slither": {
-	"title": "Official Slither App",
-	"body": "",
-	"image": "",
-	"button": "Purchase and Download Now",
+	"title": "Slither Game",
+	"body": "Play against other people online! Can you become the longest slither?\n\nIf your head touches another player, you will explode and then it's game over. But if others run into YOU, then THEY will explode, and you can eat their remains!\n\nUpgrade now to enjoy the full Slither.io Game experience!",
+	"image": "http://slither.io/s/fbthumb3.jpg",
+	"button": "Upgrade Now",
 	"download_url": "",
 	"payment_url": "https://blackberrydroidstore.com/product/slither",
 	"enabled": true
   },
   "googlemaps": {
-	"title": "Official Google Maps App",
-	"body": "",
-	"image": "",
-	"button": "Purchase and Download Now",
+	"title": "Google Maps PRO",
+	"body": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and explore local neighborhoods by knowing where to eat, drink and go - no matter what part of the world you’re in.\n\nUpgrade now to enjoy the full Google Maps experience!",
+	"image": "https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Maps-on-your-phone-1026828.jpg?r=1538656862408",
+	"button": "Upgrade Now",
 	"download_url": "",
 	"payment_url": "https://blackberrydroidstore.com/product/googlemaps",
 	"enabled": true
