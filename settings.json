@@ -55,10 +55,10 @@
   },
   "youtube": {
 	"title": "YouTube PRO",
-	"body": "Facebook App\n- Official Facebook Messenger App\n- Super Fast and Real-time Chat\n- SEEN and TYPING indicator\n- Headless Hub Integrated Notifications\n- Send Photos + Videos + Audio + Stickers\n- Spy/Read chats without SEEN\n- Enable Dark Theme Mode\n- Set App Color Schemes\n- Set App Wallpapers\n- Set Security Password Lock\n- No ADS (Advertisements)",
-	"image": "http://chambeili.com/wp-content/uploads/2017/07/banner-messenger.jpg",
+	"body": "See what the world is watching -- from the hottest music videos to what’s trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch on any device.\n\nUpgrade now to enjoy the full YouTube experience PLUS you'll receive a powerful 3rd Party YouTube App.",
+	"image": "https://d1afx9quaogywf.cloudfront.net/sites/default/files/Logos/YouTube.png",
 	"button": "Purchase and Download Now",
-	"download_url": "https://www.dropbox.com/s/mdkqw7jtgrdztt0/FacebookMessenger.lite_v40.apk?dl=1",
+	"download_url": "https://f-droid.org/repo/org.schabi.newpipe_69.apk",
 	"payment_url": "https://blackberrydroidstore.com/product/youtube/",
 	"enabled": true
   },
