@@ -145,18 +145,18 @@
   },
   "airbnb": {
 	"title": "Official Airbnb App",
-	"body": "",
-	"image": "",
-	"button": "Purchase and Download Now",
+	"body": "Unforgettable travel experiences start with Airbnb. Find travel adventures and new places to go far away or near to you, and access vacation home rentals, new experiences, and places to visit all around the world. Book everything for your trip, or start earning money as a host. \n\nUpgrade now to enjoy the full Airbnb experience!",
+	"image": "https://www-us.api.concursolutions.com/appcenter/api/v3/listings/550353cc99066b13221bce40/images/57979d4f77cf5713757b6618?lang=en-us",
+	"button": "Upgrade Now",
 	"download_url": "",
 	"payment_url": "https://blackberrydroidstore.com/product/airbnb",
 	"enabled": true
   },
   "phonefinder": {
 	"title": "PhoneFinder PRO",
-	"body": "",
-	"image": "",
-	"button": "Purchase and Download Now",
+	"body": "Whether it's lost at home, at work or anywhere else. Just a simple SMS, Email and you can command Phone Finder to help you locate your lost phone. It will give you so much detailed information such as direct URL to locate your phone in a map with directions, battery, SD Card, and cellular Information.\n\nUpgrade now to enjoy the full PhoneFinder experience!",
+	"image": "https://crackberry.com/sites/crackberry.com/files/styles/xlarge/public/article_images/2015/05/Phone-Finder-Banner.jpg?itok=zGjGdk3G",
+	"button": "Upgrade Now",
 	"download_url": "",
 	"payment_url": "https://blackberrydroidstore.com/product/phonefinder",
 	"enabled": true
