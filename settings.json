@@ -199,18 +199,18 @@
   },
   "pinterest": {
 	"title": "Official Pinterest App",
-	"body": "",
-	"image": "",
-	"button": "Purchase and Download Now",
+	"body": "Looking for creative ideas? Whether you’re planning your next big travel adventure, searching for home design concepts, looking for fashion & fitness tips or checking out new recipes, explore lifestyle inspiration on Pinterest. Good ideas start here!\n\nUpgrade now to enjoy the full experience!",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzcZmaMPXCxqSbLUDJWiNAqr7H7MvQG41qJKHpHYq3qRiBnFg",
+	"button": "Upgrade Now",
 	"download_url": "",
 	"payment_url": "https://blackberrydroidstore.com/product/pinterest",
 	"enabled": true
   },
   "quora": {
 	"title": "Official Quora App",
-	"body": "",
-	"image": "",
-	"button": "Purchase and Download Now",
+	"body": "Quora is a Q&A platform that empowers people to share and grow the world’s knowledge. People come to Quora to ask questions about any subject, read high quality knowledge that's personalized and relevant to them, and share their own knowledge with others. Quora is a place to share knowledge and better understand the world.\n\nUpgrade now to enjoy the full experience!",
+	"image": "https://cdn-images-1.medium.com/max/692/1*TDZZ9fXdAuCJklITXqp_Xw.png",
+	"button": "Upgrade Now",
 	"download_url": "",
 	"payment_url": "https://blackberrydroidstore.com/product/quora",
 	"enabled": true
