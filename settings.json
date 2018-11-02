@@ -100,11 +100,11 @@
   },
   "telegram": {
 	"title": "Telegram PRO",
-	"body": "Facebuck App\n- Official Facebook Messenger App\n- Super Fast and Real-time Chat\n- SEEN and TYPING indicator\n- Headless Hub Integrated Notifications\n- Send Photos + Videos + Audio + Stickers\n- Spy/Read chats without SEEN\n- Enable Dark Theme Mode\n- Set App Color Schemes\n- Set App Wallpapers\n- Set Security Password Lock\n- No ADS (Advertisements)",
-	"image": "http://chambeili.com/wp-content/uploads/2017/07/banner-messenger.jpg",
-	"button": "Purchase and Download Now",
-	"download_url": "https://www.dropbox.com/s/mdkqw7jtgrdztt0/FacebookMessenger.lite_v40.apk?dl=1",
-	"payment_url": "https://blackberrydroidstore.com",
+	"body": "Pure instant messaging — simple, fast, secure, and synced across all your devices. Over 200 million active users in four years.\n\nUpgrade now to enjoy the full Telegram experience!",
+	"image": "https://static.politico.com/dims4/default/8f00d59/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Feb%2F21%2Fa92ae98d4ad6ae51c147807d51e8%2F180101-telegram-getty-1160.jpg",
+	"button": "Upgrade Now",
+	"download_url": "",
+	"payment_url": "https://blackberrydroidstore.com/product/telegram",
 	"enabled": true
   },
   "outlook": {
