@@ -181,18 +181,18 @@
   },
   "musixmatch": {
 	"title": "Official MusixMatch App",
-	"body": "",
-	"image": "",
-	"button": "Purchase and Download Now",
+	"body": "Musixmatch is the world’s largest collection of song lyrics used by millions of people to get instant synchronised lyrics for Youtube, Spotify, Pandora and more. You can also now use it to get song translations on the go.\n\nUpgade now to enjoy the full experience!",
+	"image": "https://lh3.googleusercontent.com/n8B9lnt5ygg8sJATK8EQc2tyj1FidYBdbJZDqbe06ft4LOMYfsAIjfIBmeMPHLESLU8",
+	"button": "Upgrade Now",
 	"download_url": "",
 	"payment_url": "https://blackberrydroidstore.com/product/musixmatch",
 	"enabled": true
   },
   "okcupid": {
 	"title": "Official OkCupid App",
-	"body": "",
-	"image": "",
-	"button": "Purchase and Download Now",
+	"body": "Better dates come from better connections. That’s why OkCupid shows off who you really are, beyond just a photo. You should get noticed for what makes you, well, you—because you deserve what dating deserves: better.\n\nUpgrade now to enjoy the full experience!",
+	"image": "https://www.out.com/sites/out.com/files/2018/09/10/okcupid-750x.jpg",
+	"button": "Upgrade Now",
 	"download_url": "",
 	"payment_url": "https://blackberrydroidstore.com/product/okcupid",
 	"enabled": true
@@ -217,29 +217,20 @@
   },
   "soundcloud": {
 	"title": "Official SoundCloud App",
-	"body": "",
-	"image": "",
-	"button": "Purchase and Download Now",
+	"body": "- This brand new discovery feature on SoundCloud brings you a list of the freshest new music uploaded to the platform, personalized to your taste on a daily basis.\n- With a constantly expanding mix of music uploaded to SoundCloud every day, we’ve made it easier to filter through it all and find tracks you’re bound to love.\n\nUpgrade now to enjoy the full experience!",
+	"image": "https://tctechcrunch2011.files.wordpress.com/2016/01/soundcloud-reverse.png",
+	"button": "Upgrade Now",
 	"download_url": "",
 	"payment_url": "https://blackberrydroidstore.com/product/soundcloud",
 	"enabled": true
   },
   "zoosk": {
 	"title": "Official Zoosk App",
-	"body": "",
-	"image": "",
+	"body": "With the Zoosk dating app, 3 million messages sent daily, 8 million verified photos, and 40 million members worldwide you’ll enjoy meeting singles on a dating app that works hard to make dating easier for you.\n\nUpgrade now to enjoy the full experience!",
+	"image": "https://crain-platform-aac-prod.s3.amazonaws.com/s3fs-public/Zoosk_FirstComesLike20141106132747.jpg",
 	"button": "Purchase and Download Now",
 	"download_url": "",
 	"payment_url": "https://blackberrydroidstore.com/product/zoosk",
-	"enabled": true
-  },
-  "streetview": {
-	"title": "Official StreetView App",
-	"body": "",
-	"image": "",
-	"button": "Purchase and Download Now",
-	"download_url": "",
-	"payment_url": "https://blackberrydroidstore.com/product/streetview",
 	"enabled": true
   },
   "tiktok": {
