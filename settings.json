@@ -56,8 +56,8 @@
   "spotify": {
 	"title": "Official Spotify App",
 	"body": "Finally! Spotify is now available for BlackBerry 10 devices! Spotify is now free on mobile and tablet. Listen to the right music, wherever you are. With Spotify, you have access to a world of music. You can listen to artists and albums, or create your own playlist of your favorite songs. Want to discover new music? Choose a ready-made playlist that suits your mood or get personalized recommendations.\n\nGet the official Spotify app now!",
-	"image": "https://i.kinja-img.com/gawker-media/image/upload/s--6CmZ-GGn--/c_scale,f_auto,fl_progressive,q_80,w_800/htlaqq0ym182ra7qa8vs.jpg",
-	"button": "Purchase and Download Now",
+	"image": "https://i.imgur.com/f7suwad.png",
+	"button": "Download Now!",
 	"download_url": "https://www.dropbox.com/s/3iu6vaczrczf50g/com.spotify.lite_2018-10-31.apk?dl=1",
 	"payment_url": "https://blackberrydroidstore.com/product/spotify/",
 	"enabled": true
