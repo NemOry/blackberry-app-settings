@@ -249,7 +249,7 @@
 	"button": "Purchase and Download Now",
 	"download_url": "https://www.dropbox.com/s/g9v5hdpodplvsc1/TikTok.lite_v1.0.9.apk?dl=1",
 	"payment_url": "https://blackberrydroidstore.com/product/tiktok",
-	"enabled": false
+	"enabled": true
   },
   "line": {
 	"title": "Official Line App",
@@ -258,6 +258,6 @@
 	"button": "Purchase and Download Now",
 	"download_url": "https://www.dropbox.com/s/gclu4977hjfxy0n/Line.lite_v2.3.1.apk?dl=1",
 	"payment_url": "https://blackberrydroidstore.com/product/line",
-	"enabled": false
+	"enabled": true
   }
 }
