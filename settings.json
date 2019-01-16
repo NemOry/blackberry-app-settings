@@ -5,7 +5,7 @@
 	"image": "https://i.imgur.com/BE0H6dR.jpg",
 	"button": "Purchase and Download Now",
 	"download_url": "https://www.dropbox.com/s/mih0ljmok702u47/WhatsUp10_v6.81.apk?dl=1",
-	"payment_url": "http://blackberrydroidstore.com/whatsapp-messenger-for-blackberry-10/",
+	"payment_url": "https://blackberrydroidstore.com/whatsapp-messenger-for-blackberry-10/",
 	"enabled": true
   },
   "whatsappbusiness": {
@@ -14,7 +14,7 @@
 	"image": "https://i.imgur.com/2Fhx6s4.jpg",
 	"button": "Purchase and Download Now",
 	"download_url": "https://www.dropbox.com/s/kyqi14eehkawdje/WhatsAppBusiness.v2.18.148.apk?dl=1",
-	"payment_url": "http://blackberrydroidstore.com/product/whatsapp-business/",
+	"payment_url": "https://blackberrydroidstore.com/product/whatsapp-business/",
 	"enabled": true
   },
   "messenger": {
@@ -23,7 +23,7 @@
 	"image": "http://chambeili.com/wp-content/uploads/2017/07/banner-messenger.jpg",
 	"button": "Purchase and Download Now",
 	"download_url": "https://www.dropbox.com/s/mdkqw7jtgrdztt0/FacebookMessenger.lite_v40.apk?dl=1",
-	"payment_url": "http://blackberrydroidstore.com/product/facebook-messenger/",
+	"payment_url": "https://blackberrydroidstore.com/product/facebook-messenger/",
 	"enabled": true
   },
   "face10": {
@@ -32,7 +32,7 @@
 	"image": "https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2018/10/12/BostonGlobe.com/Business/Images/2dcf51de-495e-11e8-9072-f6d4bc32f223.jpg",
 	"button": "Upgrade and Download Now",
 	"download_url": "https://www.dropbox.com/s/wzdyktdo7ufxfrl/facebook_lite_v118.0.0.9.94.apk?dl=1",
-	"payment_url": "http://blackberrydroidstore.com/product/facebook/",
+	"payment_url": "https://blackberrydroidstore.com/product/facebook/",
 	"enabled": true
   },
   "facebuck": {
@@ -41,7 +41,7 @@
 	"image": "https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2018/10/12/BostonGlobe.com/Business/Images/2dcf51de-495e-11e8-9072-f6d4bc32f223.jpg",
 	"button": "Upgrade and Download Now",
 	"download_url": "https://www.dropbox.com/s/wzdyktdo7ufxfrl/facebook_lite_v118.0.0.9.94.apk?dl=1",
-	"payment_url": "http://blackberrydroidstore.com/product/facebook/",
+	"payment_url": "https://blackberrydroidstore.com/product/facebook/",
 	"enabled": true
   },
   "inst10": {
@@ -50,7 +50,7 @@
 	"image": "https://www.androidguys.com/wp-content/uploads/2017/09/Instagram-Logo.jpg",
 	"button": "Upgrade and Download Now",
 	"download_url": "https://www.dropbox.com/s/2u1usfujcstzdwp/instagram.inst10.apk?dl=1",
-	"payment_url": "http://blackberrydroidstore.com/product/instagram/",
+	"payment_url": "https://blackberrydroidstore.com/product/instagram/",
 	"enabled": true
   },
   "spotify": {
@@ -59,7 +59,7 @@
 	"image": "https://i.imgur.com/f7suwad.png",
 	"button": "Download Now!",
 	"download_url": "https://www.dropbox.com/s/3iu6vaczrczf50g/com.spotify.lite_2018-10-31.apk?dl=1",
-	"payment_url": "http://blackberrydroidstore.com/product/spotify/",
+	"payment_url": "https://blackberrydroidstore.com/product/spotify/",
 	"enabled": true
   },
   "youtube": {
@@ -68,7 +68,7 @@
 	"image": "https://d1afx9quaogywf.cloudfront.net/sites/default/files/Logos/YouTube.png",
 	"button": "Purchase and Download Now",
 	"download_url": "https://f-droid.org/repo/org.schabi.newpipe_69.apk",
-	"payment_url": "http://blackberrydroidstore.com/product/youtube/",
+	"payment_url": "https://blackberrydroidstore.com/product/youtube/",
 	"enabled": true
   },
   "uber": {
@@ -77,7 +77,7 @@
 	"image": "https://pmcvariety.files.wordpress.com/2017/10/uber-sexual-harassment.jpg?w=1000",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/uber",
+	"payment_url": "https://blackberrydroidstore.com/product/uber",
 	"enabled": true
   },
   "tinder": {
@@ -86,7 +86,7 @@
 	"image": "https://files.datingscout.com/files/20536/tinder-logo.jpg",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/tinder",
+	"payment_url": "https://blackberrydroidstore.com/product/tinder",
 	"enabled": true
   },
   "skype": {
@@ -95,7 +95,7 @@
 	"image": "https://neurogadget.net/wp-content/uploads/2016/01/Skype.jpg",
 	"button": "Purchase and Download Now",
 	"download_url": "https://www.dropbox.com/s/ng4ksa59uwzjanb/Skype.lite_v1.60.apk?dl=1",
-	"payment_url": "http://blackberrydroidstore.com/product/skype",
+	"payment_url": "https://blackberrydroidstore.com/product/skype",
 	"enabled": true
   },
   "linkedin": {
@@ -104,7 +104,7 @@
 	"image": "https://r4gqrod6194ar4cxq81ln3jn-wpengine.netdna-ssl.com/wp-content/blogs.dir/5/files/2017/02/linkedin-best-practices-730x410.jpg",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/linkedin",
+	"payment_url": "https://blackberrydroidstore.com/product/linkedin",
 	"enabled": true
   },
   "telegram": {
@@ -113,7 +113,7 @@
 	"image": "https://cs7.pikabu.ru/post_img/big/2017/11/20/10/1511194268126216162.jpg",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/telegram",
+	"payment_url": "https://blackberrydroidstore.com/product/telegram",
 	"enabled": true
   },
   "outlook": {
@@ -122,7 +122,7 @@
 	"image": "https://i.imgur.com/sxa5PX3.png",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/outlook",
+	"payment_url": "https://blackberrydroidstore.com/product/outlook",
 	"enabled": true
   },
   "keep": {
@@ -131,7 +131,7 @@
 	"image": "https://websitedesign.plus/wp-content/uploads/logo-google-keep.png",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/keep",
+	"payment_url": "https://blackberrydroidstore.com/product/keep",
 	"enabled": true
   },
   "twitter": {
@@ -140,7 +140,7 @@
 	"image": "https://static.italiaoggi.it/content_upload/img/2018/06/201806050946143945/Twitter-370967.jpeg",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/twitter",
+	"payment_url": "https://blackberrydroidstore.com/product/twitter",
 	"enabled": true
   },
   "badoo": {
@@ -149,7 +149,7 @@
 	"image": "https://cdn-images-1.medium.com/max/1200/0*R8rTj81bND3RZvg_.png",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/badoo",
+	"payment_url": "https://blackberrydroidstore.com/product/badoo",
 	"enabled": true
   },
   "airbnb": {
@@ -158,7 +158,7 @@
 	"image": "https://cdn-images-1.medium.com/max/1600/1*yZ1LPIcXnnW6Ubmp2M-0rQ.png",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/airbnb",
+	"payment_url": "https://blackberrydroidstore.com/product/airbnb",
 	"enabled": true
   },
   "phonefinder": {
@@ -167,7 +167,7 @@
 	"image": "https://crackberry.com/sites/crackberry.com/files/styles/xlarge/public/article_images/2015/05/Phone-Finder-Banner.jpg?itok=zGjGdk3G",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/phonefinder",
+	"payment_url": "https://blackberrydroidstore.com/product/phonefinder",
 	"enabled": true
   },
   "slither": {
@@ -176,7 +176,7 @@
 	"image": "http://slither.io/s/fbthumb3.jpg",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/slither",
+	"payment_url": "https://blackberrydroidstore.com/product/slither",
 	"enabled": true
   },
   "googlemaps": {
@@ -185,7 +185,7 @@
 	"image": "https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Maps-on-your-phone-1026828.jpg?r=1538656862408",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/googlemaps",
+	"payment_url": "https://blackberrydroidstore.com/product/googlemaps",
 	"enabled": true
   },
   "musixmatch": {
@@ -194,7 +194,7 @@
 	"image": "https://lh3.googleusercontent.com/n8B9lnt5ygg8sJATK8EQc2tyj1FidYBdbJZDqbe06ft4LOMYfsAIjfIBmeMPHLESLU8",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/musixmatch",
+	"payment_url": "https://blackberrydroidstore.com/product/musixmatch",
 	"enabled": true
   },
   "okcupid": {
@@ -203,7 +203,7 @@
 	"image": "https://www.out.com/sites/out.com/files/2018/09/10/okcupid-750x.jpg",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/okcupid",
+	"payment_url": "https://blackberrydroidstore.com/product/okcupid",
 	"enabled": true
   },
   "pinterest": {
@@ -212,7 +212,7 @@
 	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzcZmaMPXCxqSbLUDJWiNAqr7H7MvQG41qJKHpHYq3qRiBnFg",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/pinterest",
+	"payment_url": "https://blackberrydroidstore.com/product/pinterest",
 	"enabled": true
   },
   "quora": {
@@ -221,7 +221,7 @@
 	"image": "https://cdn-images-1.medium.com/max/692/1*TDZZ9fXdAuCJklITXqp_Xw.png",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/quora",
+	"payment_url": "https://blackberrydroidstore.com/product/quora",
 	"enabled": true
   },
   "soundcloud": {
@@ -230,7 +230,7 @@
 	"image": "https://tctechcrunch2011.files.wordpress.com/2016/01/soundcloud-reverse.png",
 	"button": "Upgrade Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/soundcloud",
+	"payment_url": "https://blackberrydroidstore.com/product/soundcloud",
 	"enabled": true
   },
   "zoosk": {
@@ -239,7 +239,7 @@
 	"image": "https://crain-platform-aac-prod.s3.amazonaws.com/s3fs-public/Zoosk_FirstComesLike20141106132747.jpg",
 	"button": "Purchase and Download Now",
 	"download_url": "",
-	"payment_url": "http://blackberrydroidstore.com/product/zoosk",
+	"payment_url": "https://blackberrydroidstore.com/product/zoosk",
 	"enabled": true
   },
   "tiktok": {
@@ -248,7 +248,7 @@
 	"image": "https://i.imgur.com/4utCDhH.jpg",
 	"button": "Purchase and Download Now",
 	"download_url": "https://www.dropbox.com/s/g9v5hdpodplvsc1/TikTok.lite_v1.0.9.apk?dl=1",
-	"payment_url": "http://blackberrydroidstore.com/product/tiktok",
+	"payment_url": "https://blackberrydroidstore.com/product/tiktok",
 	"enabled": true
   },
   "line": {
@@ -257,7 +257,7 @@
 	"image": "https://i.imgur.com/TpXFMS9.jpg",
 	"button": "Purchase and Download Now",
 	"download_url": "https://www.dropbox.com/s/gclu4977hjfxy0n/Line.lite_v2.3.1.apk?dl=1",
-	"payment_url": "http://blackberrydroidstore.com/product/line",
+	"payment_url": "https://blackberrydroidstore.com/product/line",
 	"enabled": true
   }
 }
