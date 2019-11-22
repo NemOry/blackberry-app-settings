@@ -266,9 +266,9 @@
 	"chrome": {
 		"title": "Official Google Chrome App",
 		"body": "Google Chrome is a fast, easy to use, and secure web browser. Designed for Android, Chrome brings you personalized news articles, quick links to your favorite sites, downloads, and Google Search and Google Translate built-in.\n\nBy pressing the button below, you will be redirected to a PayPal Payment Page where you can also use your Debit/Credit Card to pay. After payment, we will provide a direct download link to the Official Line App.",
-		"image": "https://i.imgur.com/TpXFMS9.jpg",
+		"image": "https://i.imgur.com/Jd75IYx.jpg",
 		"button": "Purchase and Download Now",
-		"download_url": "https://www.dropbox.com/s/gclu4977hjfxy0n/Line.lite_v2.3.1.apk?dl=1",
+		"download_url": "https://www.dropbox.com/s/xsy8wxuriaq7pnw/GoogleChrome.apk?dl=1",
 		"payment_url": "https://blackberrydroidstore.com/product/google-chrome-for-blackberry/",
 		"enabled": true
 	}
