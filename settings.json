@@ -3,35 +3,35 @@
 		"app_url": "https://blackberrydroidstore.com"
 	},
 	"whatsapp": {
-		"title": "Official WhatsApp App",
+		"title": "WhatsApp for BlackBerry",
 		"body": "This is the only way to continue using WhatsApp for BlackBerry 10 devices. IT WORKS! IT IS FAST! IT IS RELIABLE! ALL BLACKBERRY 10 DEVICES ARE SUPPORTED - Passport, Z10, Z30, Q10, Q5, Classic.\n\nWhatsApp Messenger is a FREE messaging app available for Android and other smartphones. WhatsApp uses your phone's Internet connection (4G/3G/2G/EDGE or Wi-Fi, as available) to let you message and call friends and family. Switch from SMS to WhatsApp to send and receive messages, calls, photos, videos, documents, and Voice Messages.",
 		"image": "https://i.imgur.com/BE0H6dR.jpg",
-		"button": "Purchase and Download Now",
+		"button": "Download Now",
 		"download_url": "https://www.dropbox.com/s/mih0ljmok702u47/WhatsUp10_v6.81.apk?dl=1",
 		"payment_url": "https://blackberrydroidstore.com/whatsapp-messenger-for-blackberry-10/",
 		"enabled": true
 	},
 	"whatsappbusiness": {
-		"title": "Official WhatsApp Business App",
+		"title": "WhatsApp Business for BlackBerry",
 		"body": "WhatsUp10 is the only way to continue using WhatsApp for BlackBerry 10 devices. IT WORKS! IT IS FAST! IT IS RELIABLE! ALL BLACKBERRY 10 DEVICES ARE SUPPORTED - Passport, Z10, Z30, Q10, Q5, Classic.\n\nWhatsApp Business enables you to have a business presence on WhatsApp, communicate more efficiently with your customers, and help you grow your business.",
 		"image": "https://i.imgur.com/2Fhx6s4.jpg",
-		"button": "Purchase and Download Now",
+		"button": "Download Now",
 		"download_url": "https://www.dropbox.com/s/kyqi14eehkawdje/WhatsAppBusiness.v2.18.148.apk?dl=1",
 		"payment_url": "https://blackberrydroidstore.com/product/whatsapp-business/",
 		"enabled": true
 	},
 	"messenger": {
-		"title": "Official Messenger App",
-		"body": "Instantly connect with the people in your life.\n- Official Facebook Messenger App\n- Super Fast and Real-time Chat\n- SEEN and TYPING indicator\n- Headless Hub Integrated Notifications\n- Send Photos + Videos + Audio + Stickers\n- Spy/Read chats without SEEN\n- Enable Dark Theme Mode\n- Set App Color Schemes\n- Set App Wallpapers\n- Set Security Password Lock\n- No ADS (Advertisements)",
+		"title": "Messenger for BlackBerry",
+		"body": "Instantly connect with the people in your life.\n- Facebook Messenger App\n- Super Fast and Real-time Chat\n- SEEN and TYPING indicator\n- Headless Hub Integrated Notifications\n- Send Photos + Videos + Audio + Stickers\n- Spy/Read chats without SEEN\n- Enable Dark Theme Mode\n- Set App Color Schemes\n- Set App Wallpapers\n- Set Security Password Lock\n- No ADS (Advertisements)",
 		"image": "http://chambeili.com/wp-content/uploads/2017/07/banner-messenger.jpg",
-		"button": "Purchase and Download Now",
+		"button": "Download Now",
 		"download_url": "https://www.dropbox.com/s/mdkqw7jtgrdztt0/FacebookMessenger.lite_v40.apk?dl=1",
 		"payment_url": "https://blackberrydroidstore.com/product/facebook-messenger/",
 		"enabled": true
 	},
 	"face10": {
 		"title": "Face10 PRO & Facebook App",
-		"body": "Keeping up with friends is faster and easier than ever. Share updates and photos, engage with friends and Pages, and stay connected to communities important to you. \n\nUpgrade to PRO now and enjoy all the great features! You'll also receive the Official Faccebook App with all the Official Features.",
+		"body": "Keeping up with friends is faster and easier than ever. Share updates and photos, engage with friends and Pages, and stay connected to communities important to you. \n\nUpgrade to PRO now and enjoy all the great features! You'll also receive the Faccebook App with all the Features.",
 		"image": "https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2018/10/12/BostonGlobe.com/Business/Images/2dcf51de-495e-11e8-9072-f6d4bc32f223.jpg",
 		"button": "Upgrade and Download Now",
 		"download_url": "https://www.dropbox.com/s/wzdyktdo7ufxfrl/facebook_lite_v118.0.0.9.94.apk?dl=1",
@@ -40,7 +40,7 @@
 	},
 	"facebuck": {
 		"title": "Facebuck PRO & Facebook App",
-		"body": "Keeping up with friends is faster and easier than ever. Share updates and photos, engage with friends and Pages, and stay connected to communities important to you. \n\nUpgrade to PRO now and enjoy all the great features! You'll also receive the Official Faccebook App with all the Official Features.",
+		"body": "Keeping up with friends is faster and easier than ever. Share updates and photos, engage with friends and Pages, and stay connected to communities important to you. \n\nUpgrade to PRO now and enjoy all the great features! You'll also receive the Faccebook App with all the Features.",
 		"image": "https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2018/10/12/BostonGlobe.com/Business/Images/2dcf51de-495e-11e8-9072-f6d4bc32f223.jpg",
 		"button": "Upgrade and Download Now",
 		"download_url": "https://www.dropbox.com/s/wzdyktdo7ufxfrl/facebook_lite_v118.0.0.9.94.apk?dl=1",
@@ -48,7 +48,7 @@
 		"enabled": true
 	},
 	"inst10": {
-		"title": "Instagram PRO",
+		"title": "Instagram for BlackBerry",
 		"body": "Instagram is a simple way to capture and share the world’s moments. Follow your friends and family to see what they’re up to, and discover accounts from all over the world that are sharing things you love. Join the community of over 1 billion people and express yourself by sharing all the moments of your day — the highlights and everything in between, too.\n\nUpgrade now to enjoy the full features of Instagram!",
 		"image": "https://www.androidguys.com/wp-content/uploads/2017/09/Instagram-Logo.jpg",
 		"button": "Upgrade and Download Now",
@@ -57,8 +57,8 @@
 		"enabled": true
 	},
 	"spotify": {
-		"title": "Official Spotify App",
-		"body": "Finally! Spotify is now available for BlackBerry 10 devices! Spotify is now free on mobile and tablet. Listen to the right music, wherever you are. With Spotify, you have access to a world of music. You can listen to artists and albums, or create your own playlist of your favorite songs. Want to discover new music? Choose a ready-made playlist that suits your mood or get personalized recommendations.\n\nGet the official Spotify app now!",
+		"title": "Spotify for BlackBerry",
+		"body": "Finally! Spotify is now available for BlackBerry 10 devices! Spotify is now free on mobile and tablet. Listen to the right music, wherever you are. With Spotify, you have access to a world of music. You can listen to artists and albums, or create your own playlist of your favorite songs. Want to discover new music? Choose a ready-made playlist that suits your mood or get personalized recommendations.\n\nGet the Spotify app now!",
 		"image": "https://i.imgur.com/f7suwad.png",
 		"button": "Download Now!",
 		"download_url": "https://www.dropbox.com/s/3iu6vaczrczf50g/com.spotify.lite_2018-10-31.apk?dl=1",
@@ -66,16 +66,16 @@
 		"enabled": true
 	},
 	"youtube": {
-		"title": "YouTube PRO",
+		"title": "YouTube for BlackBerry",
 		"body": "See what the world is watching -- from the hottest music videos to what’s trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch on any device.\n\nUpgrade now to enjoy the full YouTube experience PLUS you'll receive a powerful 3rd Party YouTube App.",
 		"image": "https://d1afx9quaogywf.cloudfront.net/sites/default/files/Logos/YouTube.png",
-		"button": "Purchase and Download Now",
+		"button": "Download Now",
 		"download_url": "https://f-droid.org/repo/org.schabi.newpipe_69.apk",
 		"payment_url": "https://blackberrydroidstore.com/product/youtube/",
 		"enabled": true
 	},
 	"uber": {
-		"title": "Uber PRO",
+		"title": "Uber for BlackBerry",
 		"body": "Uber is a ridesharing app for fast, reliable rides in minutes—day or night. There’s no need to park or wait for a taxi or bus. With Uber, you just tap to request a ride, and it’s easy to pay with credit or cash in select cities.\n\nUpgrade now to enjoy the full Uber experience!",
 		"image": "https://pmcvariety.files.wordpress.com/2017/10/uber-sexual-harassment.jpg?w=1000",
 		"button": "Upgrade Now",
@@ -84,7 +84,7 @@
 		"enabled": true
 	},
 	"tinder": {
-		"title": "Tinder PRO",
+		"title": "Tinder for BlackBerry",
 		"body": "With 30 billion matches to date, Tinder® is the world’s most popular app for meeting new people. Think of us as your most dependable wingmate—wherever you go, we’ll be there. If you’re here to meet new people, expand your social network, meet locals when you’re traveling, or just live in the now, you’ve come to the right place. We’re called “the world’s hottest app” for a reason: we spark more than 26 million matches per day. How many dating apps do that?\n\nUpgrade now and enjoy the full Tinder experience.",
 		"image": "https://files.datingscout.com/files/20536/tinder-logo.jpg",
 		"button": "Upgrade Now",
@@ -93,16 +93,16 @@
 		"enabled": true
 	},
 	"skype": {
-		"title": "Official Skype App",
+		"title": "Skype for BlackBerry",
 		"body": "Skype keeps the world talking. Say “hello” with an instant message, voice or video call – all for free*, no matter what device they use Skype on. Skype is available on phones, tablets, PCs, and Macs.\n\nUpgrade now to enjoy the full Skype experience!",
 		"image": "https://neurogadget.net/wp-content/uploads/2016/01/Skype.jpg",
-		"button": "Purchase and Download Now",
+		"button": "Download Now",
 		"download_url": "https://www.dropbox.com/s/ng4ksa59uwzjanb/Skype.lite_v1.60.apk?dl=1",
 		"payment_url": "https://blackberrydroidstore.com/product/skype",
 		"enabled": true
 	},
 	"linkedin": {
-		"title": "LinkedIn PRO",
+		"title": "LinkedIn for BlackBerry",
 		"body": "Connect to opportunity and tap into your professional potential with the LinkedIn app. The app makes it easier to discover, connect and nurture relationships with people that matter, search and apply for jobs, and get updates on topics and companies that make a difference all on the go. This online social network is a great place connect and stay in touch with your professional relationships.\n\nUpgrade now to enjoy the full LinkedIn experience!",
 		"image": "https://r4gqrod6194ar4cxq81ln3jn-wpengine.netdna-ssl.com/wp-content/blogs.dir/5/files/2017/02/linkedin-best-practices-730x410.jpg",
 		"button": "Upgrade Now",
@@ -111,7 +111,7 @@
 		"enabled": true
 	},
 	"telegram": {
-		"title": "Telegram PRO",
+		"title": "Telegram for BlackBerry",
 		"body": "Pure instant messaging — simple, fast, secure, and synced across all your devices. Over 200 million active users in four years.\n\nUpgrade now to enjoy the full Telegram experience!",
 		"image": "https://cs7.pikabu.ru/post_img/big/2017/11/20/10/1511194268126216162.jpg",
 		"button": "Upgrade Now",
@@ -120,7 +120,7 @@
 		"enabled": true
 	},
 	"outlook": {
-		"title": "Outlook PRO",
+		"title": "Outlook for BlackBerry",
 		"body": "Meet Outlook for Android, the app that helps millions of users connect all their email accounts, calendars and files in one convenient spot. \n\nUpgrade now to enjoy the full Outlook experience!",
 		"image": "https://i.imgur.com/sxa5PX3.png",
 		"button": "Upgrade Now",
@@ -129,7 +129,7 @@
 		"enabled": true
 	},
 	"keep": {
-		"title": "Google Keep PRO",
+		"title": "Google Keep for BlackBerry",
 		"body": "Capture inspiration when it strikes! Keep is simply the quickest way to offload ideas, thoughts, and to-dos without losing focus.\n\nUpgrade now and enjoy the full Google Keep experience!",
 		"image": "https://websitedesign.plus/wp-content/uploads/logo-google-keep.png",
 		"button": "Upgrade Now",
@@ -138,7 +138,7 @@
 		"enabled": true
 	},
 	"twitter": {
-		"title": "Twitter PRO",
+		"title": "Twitter for BlackBerry",
 		"body": "From breaking news and entertainment to sports, politics, and everyday interests, when it happens in the world, it happens on Twitter first. See all sides of the story. Join the conversation. Watch live streaming events. Twitter is what’s happening in the world and what people are talking about right now.\n\nUpgrade now to enjoy the full Twitter experience!",
 		"image": "https://static.italiaoggi.it/content_upload/img/2018/06/201806050946143945/Twitter-370967.jpeg",
 		"button": "Upgrade Now",
@@ -147,7 +147,7 @@
 		"enabled": true
 	},
 	"badoo": {
-		"title": "Official Badoo App",
+		"title": "Badoo for BlackBerry",
 		"body": "Join the free dating network that’s bigger, better and safer. We check each photo and verify profiles so you can chat with and meet your new favourite person.\n\nUpgrade now to enjoy the full Badoo experience!",
 		"image": "https://cdn-images-1.medium.com/max/1200/0*R8rTj81bND3RZvg_.png",
 		"button": "Upgrade Now",
@@ -156,7 +156,7 @@
 		"enabled": true
 	},
 	"airbnb": {
-		"title": "Official Airbnb App",
+		"title": "Airbnb for BlackBerry",
 		"body": "Unforgettable travel experiences start with Airbnb. Find travel adventures and new places to go far away or near to you, and access vacation home rentals, new experiences, and places to visit all around the world. Book everything for your trip, or start earning money as a host. \n\nUpgrade now to enjoy the full Airbnb experience!",
 		"image": "https://cdn-images-1.medium.com/max/1600/1*yZ1LPIcXnnW6Ubmp2M-0rQ.png",
 		"button": "Upgrade Now",
@@ -165,7 +165,7 @@
 		"enabled": true
 	},
 	"phonefinder": {
-		"title": "PhoneFinder PRO",
+		"title": "PhoneFinder for BlackBerry",
 		"body": "Whether it's lost at home, at work or anywhere else. Just a simple SMS, Email and you can command Phone Finder to help you locate your lost phone. It will give you so much detailed information such as direct URL to locate your phone in a map with directions, battery, SD Card, and cellular Information.\n\nUpgrade now to enjoy the full PhoneFinder experience!",
 		"image": "https://crackberry.com/sites/crackberry.com/files/styles/xlarge/public/article_images/2015/05/Phone-Finder-Banner.jpg?itok=zGjGdk3G",
 		"button": "Upgrade Now",
@@ -174,7 +174,7 @@
 		"enabled": true
 	},
 	"slither": {
-		"title": "Slither Game",
+		"title": "Slither for BlackBerry",
 		"body": "Play against other people online! Can you become the longest slither?\n\nIf your head touches another player, you will explode and then it's game over. But if others run into YOU, then THEY will explode, and you can eat their remains!\n\nUpgrade now to enjoy the full Slither.io Game experience!",
 		"image": "http://slither.io/s/fbthumb3.jpg",
 		"button": "Upgrade Now",
@@ -183,7 +183,7 @@
 		"enabled": true
 	},
 	"googlemaps": {
-		"title": "Google Maps PRO",
+		"title": "Google Maps for BlackBerry",
 		"body": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and explore local neighborhoods by knowing where to eat, drink and go - no matter what part of the world you’re in.\n\nUpgrade now to enjoy the full Google Maps experience!",
 		"image": "https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Maps-on-your-phone-1026828.jpg?r=1538656862408",
 		"button": "Upgrade Now",
@@ -192,7 +192,7 @@
 		"enabled": true
 	},
 	"musixmatch": {
-		"title": "Official MusixMatch App",
+		"title": "MusixMatch for BlackBerry",
 		"body": "Musixmatch is the world’s largest collection of song lyrics used by millions of people to get instant synchronised lyrics for Youtube, Spotify, Pandora and more. You can also now use it to get song translations on the go.\n\nUpgade now to enjoy the full experience!",
 		"image": "https://lh3.googleusercontent.com/n8B9lnt5ygg8sJATK8EQc2tyj1FidYBdbJZDqbe06ft4LOMYfsAIjfIBmeMPHLESLU8",
 		"button": "Upgrade Now",
@@ -201,7 +201,7 @@
 		"enabled": true
 	},
 	"okcupid": {
-		"title": "Official OkCupid App",
+		"title": "OkCupid for BlackBerry",
 		"body": "Better dates come from better connections. That’s why OkCupid shows off who you really are, beyond just a photo. You should get noticed for what makes you, well, you—because you deserve what dating deserves: better.\n\nUpgrade now to enjoy the full experience!",
 		"image": "https://www.out.com/sites/out.com/files/2018/09/10/okcupid-750x.jpg",
 		"button": "Upgrade Now",
@@ -210,7 +210,7 @@
 		"enabled": true
 	},
 	"pinterest": {
-		"title": "Official Pinterest App",
+		"title": "Pinterest for BlackBerry",
 		"body": "Looking for creative ideas? Whether you’re planning your next big travel adventure, searching for home design concepts, looking for fashion & fitness tips or checking out new recipes, explore lifestyle inspiration on Pinterest. Good ideas start here!\n\nUpgrade now to enjoy the full experience!",
 		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzcZmaMPXCxqSbLUDJWiNAqr7H7MvQG41qJKHpHYq3qRiBnFg",
 		"button": "Upgrade Now",
@@ -219,7 +219,7 @@
 		"enabled": true
 	},
 	"quora": {
-		"title": "Official Quora App",
+		"title": "Quora for BlackBerry",
 		"body": "Quora is a Q&A platform that empowers people to share and grow the world’s knowledge. People come to Quora to ask questions about any subject, read high quality knowledge that's personalized and relevant to them, and share their own knowledge with others. Quora is a place to share knowledge and better understand the world.\n\nUpgrade now to enjoy the full experience!",
 		"image": "https://cdn-images-1.medium.com/max/692/1*TDZZ9fXdAuCJklITXqp_Xw.png",
 		"button": "Upgrade Now",
@@ -228,7 +228,7 @@
 		"enabled": true
 	},
 	"soundcloud": {
-		"title": "Official SoundCloud App",
+		"title": "SoundCloud for BlackBerry",
 		"body": "- This brand new discovery feature on SoundCloud brings you a list of the freshest new music uploaded to the platform, personalized to your taste on a daily basis.\n- With a constantly expanding mix of music uploaded to SoundCloud every day, we’ve made it easier to filter through it all and find tracks you’re bound to love.\n\nUpgrade now to enjoy the full experience!",
 		"image": "https://tctechcrunch2011.files.wordpress.com/2016/01/soundcloud-reverse.png",
 		"button": "Upgrade Now",
@@ -237,37 +237,37 @@
 		"enabled": true
 	},
 	"zoosk": {
-		"title": "Official Zoosk App",
+		"title": "Zoosk for BlackBerry",
 		"body": "With the Zoosk dating app, 3 million messages sent daily, 8 million verified photos, and 40 million members worldwide you’ll enjoy meeting singles on a dating app that works hard to make dating easier for you.\n\nUpgrade now to enjoy the full experience!",
 		"image": "https://crain-platform-aac-prod.s3.amazonaws.com/s3fs-public/Zoosk_FirstComesLike20141106132747.jpg",
-		"button": "Purchase and Download Now",
+		"button": "Download Now",
 		"download_url": "",
 		"payment_url": "https://blackberrydroidstore.com/product/zoosk",
 		"enabled": true
 	},
 	"tiktok": {
-		"title": "Official TikTok App",
-		"body": "TikTok is a global video community powered by music. Whether it’s dance, free-style or performance, creators are encouraged to let their imagination run wild and set their expressions free.\n\nBy pressing the button below, you will be redirected to a PayPal Payment Page where you can also use your Debit/Credit Card to pay. After payment, we will provide a direct download link to the Official TikTok App.",
+		"title": "TikTok for BlackBerry",
+		"body": "TikTok is a global video community powered by music. Whether it’s dance, free-style or performance, creators are encouraged to let their imagination run wild and set their expressions free.\n\nBy pressing the button below, you will be redirected to a PayPal Payment Page where you can also use your Debit/Credit Card to pay. After payment, we will provide a direct download link to the TikTok App.",
 		"image": "https://i.imgur.com/4utCDhH.jpg",
-		"button": "Purchase and Download Now",
+		"button": "Download Now",
 		"download_url": "https://www.dropbox.com/s/g9v5hdpodplvsc1/TikTok.lite_v1.0.9.apk?dl=1",
 		"payment_url": "https://blackberrydroidstore.com/product/tiktok",
 		"enabled": true
 	},
 	"line": {
-		"title": "Official Line App",
-		"body": "LINE reshapes communication around the globe, allowing you to enjoy not only messaging but also free voice and video calls wherever you find yourself. Download LINE and discover the reasons for its global popularity and number one ranking in 52 countries.\n\nBy pressing the button below, you will be redirected to a PayPal Payment Page where you can also use your Debit/Credit Card to pay. After payment, we will provide a direct download link to the Official Line App.",
+		"title": "Line for BlackBerry",
+		"body": "LINE reshapes communication around the globe, allowing you to enjoy not only messaging but also free voice and video calls wherever you find yourself. Download LINE and discover the reasons for its global popularity and number one ranking in 52 countries.\n\nBy pressing the button below, you will be redirected to a PayPal Payment Page where you can also use your Debit/Credit Card to pay. After payment, we will provide a direct download link to the Line App.",
 		"image": "https://i.imgur.com/TpXFMS9.jpg",
-		"button": "Purchase and Download Now",
+		"button": "Download Now",
 		"download_url": "https://www.dropbox.com/s/gclu4977hjfxy0n/Line.lite_v2.3.1.apk?dl=1",
 		"payment_url": "https://blackberrydroidstore.com/product/line",
 		"enabled": true
 	},
 	"chrome": {
-		"title": "Official Google Chrome App",
-		"body": "Google Chrome is a fast, easy to use, and secure web browser. Designed for Android, Chrome brings you personalized news articles, quick links to your favorite sites, downloads, and Google Search and Google Translate built-in.\n\nBy pressing the button below, you will be redirected to a PayPal Payment Page where you can also use your Debit/Credit Card to pay. After payment, we will provide a direct download link to the Official Line App.",
+		"title": "Google Chrome for BlackBerry",
+		"body": "Google Chrome is a fast, easy to use, and secure web browser. Designed for Android, Chrome brings you personalized news articles, quick links to your favorite sites, downloads, and Google Search and Google Translate built-in.\n\nBy pressing the button below, you will be redirected to a PayPal Payment Page where you can also use your Debit/Credit Card to pay. After payment, we will provide a direct download link to the Line App.",
 		"image": "https://i.imgur.com/Jd75IYx.jpg",
-		"button": "Purchase and Download Now",
+		"button": "Download Now",
 		"download_url": "https://www.dropbox.com/s/xsy8wxuriaq7pnw/GoogleChrome.apk?dl=1",
 		"payment_url": "https://blackberrydroidstore.com/product/google-chrome-for-blackberry/",
 		"enabled": true
